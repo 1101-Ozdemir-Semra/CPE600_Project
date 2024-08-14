@@ -1,3 +1,3 @@
 # CPE600_Project
 
-Work in progress for CPE 400/600 project analyzing network traffic data of smart home security cameras. Data and analysis scripts will be available soon.
+Raw material for CPE 400/600 project analyzing network traffic data of smart home security cameras. Data is available through this link: https://drive.google.com/drive/folders/1aOk8XVdNVF4I6UROjQK5tQRBn8P9seYx?usp=share_link
